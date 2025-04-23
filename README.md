@@ -15,6 +15,8 @@ I am a programmer with a knack for creating engaging applications. While I don't
 
 - ⚡ Fun fact **I started programming when i was 8**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/@kemalistetr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@kemalistetr" height="30" width="40" /></a>
@@ -27,7 +29,5 @@ I am a programmer with a knack for creating engaging applications. While I don't
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemaliste&show_icons=true&locale=en&layout=compact" alt="kemaliste" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaliste&show_icons=true&locale=en" alt="kemaliste" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaliste" alt="kemaliste" /></a> </p>
