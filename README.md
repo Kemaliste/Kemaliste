@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" />
 </div>
 
 
