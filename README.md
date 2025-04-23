@@ -5,10 +5,6 @@
 
 I am a programmer with a knack for creating engaging applications. While I don't currently have a specified location or company, I thrive on working on various projects and contributing to the open-source community. I am known for freelancing and creating games on the platform "Roblox".
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaliste" alt="kemaliste" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://bogk.artstation.com/projects/JvWbEz](https://bogk.artstation.com/projects/JvWbEz)
 
 - 💬 Ask me about **Anything**
@@ -31,3 +27,7 @@ I am a programmer with a knack for creating engaging applications. While I don't
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemaliste&show_icons=true&locale=en&layout=compact" alt="kemaliste" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaliste&show_icons=true&locale=en" alt="kemaliste" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaliste" alt="kemaliste" /></a> </p>
