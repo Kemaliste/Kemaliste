@@ -3,6 +3,8 @@
 
 <h2 align="left">About Me</h2>
 
+I am a programmer with a knack for creating engaging applications. While I don't currently have a specified location or company, I thrive on working on various projects and contributing to the open-source community. I am known for freelancing and creating games on the platform "Roblox".
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaliste" alt="kemaliste" /></a> </p>
