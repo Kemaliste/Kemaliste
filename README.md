@@ -39,7 +39,7 @@ I am a programmer with a knack for creating engaging applications. While I don't
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kemaliste&show_icons=true&locale=en" alt="kemaliste" /></p>
-
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kemaliste&show_icons=true&locale=en&layout=compact" alt="kemaliste" /></p>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaliste" alt="kemaliste" /></a> </p>
