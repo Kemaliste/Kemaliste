@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kemaliste</h1>
 <h3 align="center">A passionate frontend developer from Turkiye</h3>
 
+<h2 align="left">About Me</h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemaliste&label=Profile%20views&color=0e75b6&style=flat" alt="kemaliste" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kemaliste" alt="kemaliste" /></a> </p>
